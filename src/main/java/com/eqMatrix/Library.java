@@ -98,6 +98,7 @@ class Library {
                 System.out.println("Fine: " + details.getFine());
             });
             System.out.println("----------------------------\n");
+             
         });
     }
 }
